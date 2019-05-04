@@ -507,7 +507,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "295:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -746,7 +746,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "449:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -995,7 +995,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "599:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -1217,7 +1217,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "763:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -1439,7 +1439,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "947:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -1769,7 +1769,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "295:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -2008,7 +2008,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "449:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -2257,7 +2257,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "599:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -2479,7 +2479,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "763:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -2701,7 +2701,7 @@
                         "name": "super",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 969,
+                        "referencedDeclaration": 945,
                         "src": "947:5:2",
                         "typeDescriptions": {
                           "typeIdentifier": "t_super$_ERC20Pausable_$430",
@@ -2882,7 +2882,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.6",
-  "updatedAt": "2019-05-04T02:43:30.192Z",
+  "updatedAt": "2019-05-04T03:32:43.014Z",
   "devdoc": {
     "details": "ERC20 modified with pausable transfers.",
     "methods": {

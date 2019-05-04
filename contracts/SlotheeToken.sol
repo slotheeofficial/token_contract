@@ -4,9 +4,9 @@ import "./SafeMath.sol";
 import "./ERC20Pausable.sol";
 import "./ERC20Detailed.sol";
 
-contract Exact is ERC20Pausable, ERC20Detailed {
+contract SlotheeToken is ERC20Pausable, ERC20Detailed {
 
-  constructor() ERC20Detailed("Exact", "ET", 18) public {
+  constructor() ERC20Detailed("Slothee", "SLO", 18) public {
 
     // total tokens - 400 000 000 Tokens	  
     _totalSupply = 400000000000000000000000000;
