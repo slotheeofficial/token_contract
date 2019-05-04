@@ -6,7 +6,7 @@ import "./ERC20Detailed.sol";
 
 contract SlotheeToken is ERC20Pausable, ERC20Detailed {
 
-  constructor() ERC20Detailed("Slothee", "SLO", 18) public {
+  constructor() ERC20Detailed("SlotheeToken", "SLO", 18) public {
 
     // total tokens - 400 000 000 Tokens	  
     _totalSupply = 400000000000000000000000000;
