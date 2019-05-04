@@ -308,10 +308,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "606:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -534,10 +534,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "924:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -836,10 +836,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "1287:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1219,10 +1219,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "1542:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1445,10 +1445,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "1815:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -1938,10 +1938,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "606:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -2164,10 +2164,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "924:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -2466,10 +2466,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "1287:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -2849,10 +2849,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "1542:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -3075,10 +3075,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        903,
-                        904
+                        946,
+                        947
                       ],
-                      "referencedDeclaration": 903,
+                      "referencedDeclaration": 946,
                       "src": "1815:7:7",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -3274,7 +3274,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.6",
-  "updatedAt": "2019-05-03T23:12:10.864Z",
+  "updatedAt": "2019-05-04T02:43:30.218Z",
   "devdoc": {
     "details": "Unsigned math operations with safety checks that revert on error",
     "methods": {},
