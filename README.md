@@ -37,7 +37,8 @@ Intuitive user interface enables an average Slotheeuser to close a deal easily a
   | Token Locked       | yes                    |
 
 
-> Token Contract Address: Will be updated
+> Token Contract Address: 0x0eF997BcCE28c12D450D6A60021A79F617845102
+> Token Details Explorer: https://etherscan.io/token/0x0eF997BcCE28c12D450D6A60021A79F617845102
 
 
 #### TOKEN DISTRIBUTION INFORMATION
