@@ -41,8 +41,10 @@ Intuitive user interface enables an average Slotheeuser to close a deal easily a
 
 
 #### TOKEN DISTRIBUTION INFORMATION
+* Hard Cap: 19 000 000 USD
 * Value per Token: 0.08 USD
-* Token issued for sale: 400 000 000 SLO
+* Token Cap: 400 000 000 SLO
+* Token Sale: 280 000 000 SLO
 
 
 
